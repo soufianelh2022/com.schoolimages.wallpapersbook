@@ -19,10 +19,10 @@
     "openadyandex":"demo-appopenad-yandex",
 
     
-    "priorityInterstitial": "yandex",
-    "PriorityBanner": "yandex",
-    "PriorityReward": "yandex",
-    "PriorityNative": "yandex"
+    "priorityInterstitial": "",
+    "PriorityBanner": "",
+    "PriorityReward": "",
+    "PriorityNative": ""
 
 
     
