@@ -2,9 +2,9 @@
   "ads": {
    
 
-     "ShowAds": true,
+     "ShowAds": false,
      "ClickCount": 3,
-     "ShowLoadingAds": true,
+     "ShowLoadingAds": false,
 
    
     "IronAppKey": "147d445d9",
